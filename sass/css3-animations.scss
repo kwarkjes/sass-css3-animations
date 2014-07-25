@@ -438,6 +438,9 @@ tossing
     50%     { @include transform( rotate(4deg) ); }
     100%    { @include transform( rotate(-4deg) ); }
 }
+/*
+ * TODO: pullUp, pullDown, stretchLeft, stretchRight
+ */
 
 /*
 ==============================================
